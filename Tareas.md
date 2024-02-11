@@ -11,4 +11,4 @@ Link figma:
 
 
 PROPUESTA DEL PROYECTO A REALIZAR:
-Pagina web para onventario de suministros de salud
+Revisar wiki 
