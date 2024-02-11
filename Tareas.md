@@ -1,5 +1,5 @@
 # RepositorioGitProyecto
-Proyecto: Interfaces de usuario Jhon Lopez y Cesar Bocanegra
+Proyecto por Jhon Lopez y Cesar Bocanegra
 
 Integrantes del grupo:
 Jhon Edward Lopez Quiroz
